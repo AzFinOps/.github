@@ -10,13 +10,9 @@ AzFinOps is your go-to destination for open-source solutions designed to streaml
 
 The AzFinOps module is a powerful toolkit for efficiently managing your Azure financial operations. It empowers you to track costs, identify cost-saving opportunities, and optimize your Azure resources, ultimately helping you achieve better financial governance in the cloud.
 
-Repository: [AzFinOps](https://github.com/AzFinOps/AzFinOps)
-
 ### AzGovernance
 
 The AzGovernance module is dedicated to enhancing your Azure governance practices. It simplifies the process of collecting governance data, generating compliance reports, and enforcing Azure policies, ensuring that your Azure environment adheres to your organizational standards and compliance requirements.
-
-Repository: [AzGovernance](https://github.com/AzFinOps/AzGovernance)
 
 ## Get Started
 
