@@ -16,7 +16,7 @@ The AzGovernance module is dedicated to enhancing your Azure governance practice
 
 ## Get Started
 
-To get started with our modules, visit the respective repository links above for detailed documentation, installation guides, and usage examples.
+To get started with our modules, visit the respective repository links for detailed documentation, installation guides, and usage examples.
 
 ## Contribution Guidelines
 
